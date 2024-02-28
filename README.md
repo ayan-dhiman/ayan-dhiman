@@ -44,50 +44,50 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-white?style=for-the-badge&logo=springboot&logoColor=white&color=green">
   </a>
 
-   <a href="https://scikit-learn.org/" target="_blank">
+   <a href="" target="_blank">
      <img alt="HTML" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&color=orange">
   </a>
 
-   <a href="https://keras.io/" target="_blank">
+   <a href="" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&color=blue">
   </a>
 
-   <a href="https://numpy.org/" target="_blank">
+   <a href="" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow">
   </a>
 
-   <a href="https://pandas.pydata.org/" target="_blank">
+   <a href="" target="_blank">
      <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-white?style=for-the-badge&logo=React&logoColor=white&color=skyblue">
   </a>
 
-   <a href="https://plotly.com/" target="_blank">
+   <a href="" target="_blank">
     <img alt="jQuery" src="https://img.shields.io/badge/Jquery-white?style=for-the-badge&logo=jquery&logoColor=white&color=darkblue">
   </a>
 
-   <a href="https://streamlit.io/" target="_blank">
+   <a href="" target="_blank">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&color=pink">
   </a>
 
-   <a href="https://opencv.org/" target="_blank">
+   <a href="" target="_blank">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=Mysql&logoColor=white&color=blue">
   </a>
-   <a href="https://www.selenium.dev/" target="_blank">
+   <a href="" target="_blank">
      <img alt="Docker" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=teal">
   </a>
-   <a href="https://jupyter.org/" target="_blank">
+   <a href="" target="_blank">
      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=white&color=red">
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
+  <a href="" target="_blank">
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-white?style=for-the-badge&logo=eclipse&logoColor=white&color=purple">
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a>
