@@ -17,7 +17,7 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
 <p align ="left">
     I specialize in Full-Stack Development, with expertise in Core Java, J2EE, SQL, and a working knowledge of frameworks like Spring Core/MVC, and Spring Boot including React.js, JavaScript, jQuery and Sass.
     <br />
-    With experience designing and developing solutions for various streams of work, I have a strong foundation in the core topics and working knowledge of technologies like Docker, Kubernetes.
+    With experience designing and developing solutions for various streams of work, I have a strong foundation in the core topics and working knowledge of technologies like Docker, and Hibernate.
     <br />
     I thrive in dynamic environments, collaborating with cross-functional teams to deliver efficient and scalable software solutions.
     <br/>
