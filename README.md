@@ -32,6 +32,8 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
     <img alt="J2EE" src="https://img.shields.io/badge/J2EE-white?style=for-the-badge&color=purple">
     <img alt="Spring Core/MVC" src="https://img.shields.io/badge/Spring%20Core%2FMVC-white?style=for-the-badge&logo=spring&logoColor=white&color=lightgreen">
     <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-white?style=for-the-badge&logo=springboot&logoColor=white&color=green">
+    <img alt="SpringData" src="https://img.shields.io/badge/Spring%20Data-white?style=for-the-badge&color=green">
+    <img alt="SpringSecurity" src="https://img.shields.io/badge/Spring%20Security-white?style=for-the-badge&logo=spring%20security&logoColor=white&color=green">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&color=orange">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&color=blue">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow">
