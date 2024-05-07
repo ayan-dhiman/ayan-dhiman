@@ -42,7 +42,7 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
     <img alt="SASS" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&color=pink">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=Mysql&logoColor=white&color=blue">
     <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=white&color=teal">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=teal">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=blue">
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-white?style=for-the-badge&logo=eclipse&logoColor=white&color=purple">
     <img alt="VS Code" src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
     <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
