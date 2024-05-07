@@ -32,7 +32,7 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
     <img alt="J2EE" src="https://img.shields.io/badge/J2EE-white?style=for-the-badge&color=purple">
     <img alt="Spring Core/MVC" src="https://img.shields.io/badge/Spring%20Core%2FMVC-white?style=for-the-badge&logo=spring&logoColor=white&color=lightgreen">
     <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-white?style=for-the-badge&logo=springboot&logoColor=white&color=green">
-    <img alt="SpringData" src="https://img.shields.io/badge/Spring%20Data-white?style=for-the-badge&color=green">
+    <img alt="SpringData" src="https://img.shields.io/badge/Spring%20Data-white?style=for-the-badge&color=darkgreen">
     <img alt="SpringSecurity" src="https://img.shields.io/badge/Spring%20Security-white?style=for-the-badge&logo=spring%20security&logoColor=white&color=green">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&color=orange">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&color=blue">
@@ -41,6 +41,7 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
     <img alt="jQuery" src="https://img.shields.io/badge/Jquery-white?style=for-the-badge&logo=jquery&logoColor=white&color=darkblue">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&color=pink">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=Mysql&logoColor=white&color=blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=white&color=teal">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=teal">
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-white?style=for-the-badge&logo=eclipse&logoColor=white&color=purple">
     <img alt="VS Code" src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
