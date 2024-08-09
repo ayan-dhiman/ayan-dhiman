@@ -15,15 +15,13 @@ Hi, I'm <br/>
 a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
 
 <p align ="left">
-    I specialize in Full-Stack Development, with expertise in Core Java, J2EE, SQL, and a working knowledge of frameworks like Spring Core/MVC, and Spring Boot including React.js, JavaScript, jQuery and Sass.
-    <br />
-    With experience designing and developing solutions for various streams of work, I have a strong foundation in the core topics and working knowledge of technologies like Docker, and Hibernate.
-    <br />
-    I thrive in dynamic environments, collaborating with cross-functional teams to deliver efficient and scalable software solutions.
-    <br/>
-    If you want to know more or want to talk about anything related, please drop me a line.
-    <br />
-    You can email me at <a href="mailto:er.ayandhiman@gmail.com"><strong>er.ayandhiman@gmail.com</strong></a> to start a chat.
+    As a Full-Stack Developer with deep expertise in Java and a strong command of frameworks and modules such as Spring Core & MVC, Spring Data JPA, Spring Security, and Spring Boot, I offer a well-rounded and versatile skill set. My back-end proficiency is complemented by my expertise in front-end technologies like React.js, JavaScript, and jQuery, allowing me to create dynamic and user-friendly interfaces that enhance user experiences.<br/>
+
+In addition to my Java expertise, I have upskilled in Node.js, Express.js, TypeScript, and Nest.js, further expanding my ability to build robust, scalable, and efficient software solutions. My experience spans across designing and implementing solutions in diverse domains, where I have consistently demonstrated a deep understanding of core concepts and tools such as CI/CD pipelines and Docker.<br/>
+
+I am committed to streamlining development processes, integrating technologies seamlessly, and collaborating effectively across teams to deliver innovative software solutions. I thrive on translating complex requirements into robust, scalable, and efficient software, ensuring that every project I undertake is executed with precision and excellence.<br/>
+
+If you're interested in discussing anything related to software development or exploring potential collaborations, feel free to reach out to me at <a href="mailto:er.ayandhiman@gmail.com"><strong>er.ayandhiman@gmail.com</strong></a>.
 </p>
 <hr/>
 <h2>Core Competencies</h2>
@@ -38,6 +36,10 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
     <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&color=blue">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow">
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-white?style=for-the-badge&logo=React&logoColor=white&color=skyblue">
+    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs&logoColor=green">
+    <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-lightgrey?style=for-the-badge&logo=express&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white">
     <img alt="jQuery" src="https://img.shields.io/badge/Jquery-white?style=for-the-badge&logo=jquery&logoColor=white&color=darkblue">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&color=pink">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=Mysql&logoColor=white&color=blue">
@@ -48,4 +50,5 @@ a <Strong>Full Stack Developer</Strong> based in Bengaluru, Karnataka, India !
     <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-white?style=for-the-badge&logo=bitbucket&logoColor=white&color=brown">
+    
 </p>
